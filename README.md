@@ -24,4 +24,10 @@ These elements are present in every page (except error pages) in the navigation 
 * Edit (button): Takes you to the edit entry page.
 ## Page design images
 
-![design of pages](images/homepage_wiki.jpg?raw=true "homepage" )
+![homepage](images/homepage_wiki.jpg?raw=true "homepage")
+![search page](images/search_page.jpg?raw=true "search page")
+![create entry](images/create_entry.jpg?raw=true "create entry")
+![edit entry](images/edit_entry.jpg?raw=true "edit entry")
+![entry page](images/entry_page.jpg?raw=true "entry page")
+![error page](images/error_page.jpg?raw=true "error page")
+
