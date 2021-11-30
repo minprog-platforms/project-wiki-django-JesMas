@@ -24,5 +24,4 @@ These elements are present in every page (except error pages) in the navigation 
 * Edit (button): Takes you to the edit entry page.
 ## Page design images
 
-![design of pages](https://github.com/JesMas/project-wiki-django-JesMas/blob/main/homepage_wiki.jpg?raw=true)
-
+![design of pages](https://github.com/JesMas/project-wiki-django-JesMas/images/blob/main/homepage_wiki.jpg?raw=true)
