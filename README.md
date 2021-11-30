@@ -25,9 +25,9 @@ These elements are present in every page (except error pages) in the navigation 
 ## Page design images
 
 ![homepage](images/homepage_wiki.jpg?raw=true "homepage")
-![search page](images/search_page.jpg?raw=true "search page")
-![create entry](images/create_entry.jpg?raw=true "create entry")
-![edit entry](images/edit_entry.jpg?raw=true "edit entry")
-![entry page](images/entry_page.jpg?raw=true "entry page")
-![error page](images/error_page.jpg?raw=true "error page")
+![search page](images/Search_page.jpg?raw=true "search page")
+![create entry](images/Create_entry.jpg?raw=true "create entry")
+![edit entry](images/Edit_entry.jpg?raw=true "edit entry")
+![entry page](images/Entry_page.jpg?raw=true "entry page")
+![error page](images/Error_page.jpg?raw=true "error page")
 
