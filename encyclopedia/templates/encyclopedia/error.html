@@ -1,0 +1,25 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html style= "background-image:linear-gradient rgb(219, 79, 79), white">
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+<head>
+    <style>
+        html {
+        height: 100%;
+        }
+        body {
+        background-image: linear-gradient(#8d8989, rgb(255, 255, 255));
+        }
+    </style>
+    <title>page not found</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <link href="{% static 'encyclopedia/styles.css' %}" rel="stylesheet">
+</head>
+<body>
+<div style= "height: 100vh;width: 100vw;position:fixed; left:0;top:0;overflow:hidden;">
+  <h1 style="font-family: 'Dancing Script', cursive;text-align: center;padding-top: 40vh;">Encyclopedia</h1>
+  <p style = "text-align: center;padding-bottom: 50vh;font-family: Verdana, Geneva, Tahoma, sans-serif;font-size: 16pt;">Oops it seems that this page does not exist!<br />Do you want to go back <a href="{% url 'index' %}">home</a>?</p>
+</div>
+</body>
+</html>
